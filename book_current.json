@@ -1,0 +1,19 @@
+{
+  "title": "编辑器和IDE总结",
+  "description": "总结编辑器和IDE的不同角度的分类，常见编辑器和IDE简介，编辑器和IDE通用功能整理，各种常见编程语言的各种IDE，并针对每款常用编辑器和IDE深入详细介绍",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "editor_ide_summary"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/editor_ide_summary/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/editor_ide_summary/pdf/editor_ide_summary.pdf"
+    }
+  }
+}
